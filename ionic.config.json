@@ -1,0 +1,7 @@
+{
+  "name": "webworkers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
